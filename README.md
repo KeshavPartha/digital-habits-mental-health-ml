@@ -118,8 +118,3 @@ Sleep efficiency and sleep duration dominate stress prediction, while direct dig
 - Predict mood score as a secondary target
 - Expand dataset with demographic or longitudinal data
 
----
-
-## Author
-**Keshav Partha**  
-Aspiring Data Scientist | Machine Learning & Behavioral Analytics  
